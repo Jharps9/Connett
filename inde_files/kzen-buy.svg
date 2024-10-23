@@ -1,0 +1,48 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="10" cy="10" r="10" fill="url(#paint0_radial_9960_486)"/>
+<mask id="mask0_9960_486" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+<circle cx="10" cy="10" r="10" fill="url(#paint1_radial_9960_486)"/>
+</mask>
+<g mask="url(#mask0_9960_486)">
+<g filter="url(#filter0_f_9960_486)">
+<path d="M16.25 15.625C16.25 19.0768 13.4518 21.875 10 21.875C6.54822 21.875 3.75 19.0768 3.75 15.625C3.75 12.1732 6.54822 9.375 10 9.375C13.4518 9.375 16.25 12.1732 16.25 15.625Z" fill="#C50000"/>
+</g>
+<g filter="url(#filter1_f_9960_486)">
+<ellipse cx="9.31487" cy="3.3632" rx="3.83929" ry="2.29167" fill="#FFB3B3"/>
+</g>
+<g filter="url(#filter2_f_9960_486)">
+<ellipse cx="16.363" cy="7.12404" rx="3.24405" ry="1.75595" transform="rotate(56.0478 16.363 7.12404)" fill="#FFB0B0"/>
+</g>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9.6875 15V5H8.125V15H9.6875Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.5415 16.4897C13.6727 14.834 12.8186 12.5532 12.8186 10C12.8187 7.44676 13.6728 5.16603 14.5415 3.51032C14.9745 2.68514 15.407 2.02295 15.7295 1.56933C15.8905 1.34273 16.0237 1.16877 16.1152 1.05318C16.1609 0.995405 16.1961 0.952265 16.2191 0.924477C16.2306 0.910583 16.2391 0.900534 16.2443 0.894417L16.2495 0.888205L16.25 0.887665C16.2499 0.887804 16.2497 0.887962 15.6342 0.443789C15.0186 -0.000385284 15.0185 -0.000196457 15.0183 9.53674e-06L15.0168 0.00176811L15.0136 0.00545311L15.0035 0.0173893C14.995 0.0273647 14.9833 0.0413666 14.9684 0.0592995C14.9387 0.0951653 14.8966 0.146786 14.8439 0.213444C14.7384 0.346724 14.5904 0.540327 14.414 0.788488C14.0615 1.2844 13.594 2.00054 13.1271 2.8906C12.1959 4.66537 11.25 7.16274 11.25 9.99998C11.25 12.8372 12.1958 15.3346 13.127 17.1094C13.594 17.9995 14.0614 18.7156 14.414 19.2115C14.5904 19.4597 14.7384 19.6533 14.8439 19.7866C14.8966 19.8532 14.9387 19.9048 14.9684 19.9407C14.9833 19.9586 14.995 19.9726 15.0035 19.9826L15.0136 19.9945L15.0168 19.9982L15.0183 20C15.0185 20.0002 15.0187 20.0004 15.6342 19.5562C16.2497 19.112 16.2499 19.1122 16.25 19.1123L16.2495 19.1118L16.2442 19.1056C16.2391 19.0994 16.2306 19.0894 16.2191 19.0755C16.1961 19.0477 16.1609 19.0046 16.1151 18.9468C16.0237 18.8312 15.8905 18.6573 15.7294 18.4306C15.407 17.977 14.9744 17.3148 14.5415 16.4897Z" fill="black"/>
+<defs>
+<filter id="filter0_f_9960_486" x="-0.25" y="5.375" width="20.5" height="20.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_9960_486"/>
+</filter>
+<filter id="filter1_f_9960_486" x="1.47559" y="-2.92847" width="15.6787" height="12.5833" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_9960_486"/>
+</filter>
+<filter id="filter2_f_9960_486" x="10.0381" y="0.259277" width="12.6499" height="13.7297" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_9960_486"/>
+</filter>
+<radialGradient id="paint0_radial_9960_486" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(9.40978 10.5246) rotate(-24.5255) scale(11.126 11.1536)">
+<stop stop-color="#D50000"/>
+<stop offset="0.428907" stop-color="#FF1414"/>
+<stop offset="0.839181" stop-color="#FF5D5D"/>
+<stop offset="1" stop-color="#FF5353"/>
+</radialGradient>
+<radialGradient id="paint1_radial_9960_486" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(9.40978 10.5246) rotate(-24.5255) scale(11.126 11.1536)">
+<stop stop-color="#016EE7"/>
+<stop offset="0.428907" stop-color="#2980FF"/>
+<stop offset="0.839181" stop-color="#5D9AFF"/>
+<stop offset="1" stop-color="#90C7FF"/>
+</radialGradient>
+</defs>
+</svg>
